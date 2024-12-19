@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color grey
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id Education
+id about
+id contact
+id content
+id detail
+id header_title
+id hobby
+id links
+id notes
+id portal
+id resume
+id skill
+id study
+id uitm
+layout activity_main
+menu menu_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Personal_App
+style Theme.Personal_App
+xml backup_rules
+xml data_extraction_rules

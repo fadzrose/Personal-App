@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/about"
+        android:title="About Me"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/skill"
+        android:title="Skills"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/hobby"
+        android:title="Hobbies" />
+
+    <item
+        android:id="@+id/resume"
+        android:title="Resume" />
+
+    <item
+        android:id="@+id/links"
+        android:title="Links">
+
+        <menu>
+
+            <item
+                android:id="@+id/uitm"
+                android:title="UiTM Website"/>
+
+            <item
+                android:id="@+id/portal"
+                android:title="iStudent Portal"/>
+        </menu>
+
+    </item>
+
+</menu>
